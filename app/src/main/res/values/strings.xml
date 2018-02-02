@@ -1,0 +1,23 @@
+<resources>
+    <string name="masa">Masa</string>
+    <string name="elegir_masa">Elegir masa</string>
+    <string name="elegir_ingredientes">Elegir ingrediente</string>
+    <string name="elegir_tamaño">Elegir tamaño</string>
+    <string name="Pollo">Pollo</string>
+    <string name="ternera">Ternera</string>
+    <string name="champiñones">Champiñones</string>
+    <string name="bacon">Bacon</string>
+    <string name="peperoni">Peperoni</string>
+    <string name="cebolla">Cebolla</string>
+    <string name="ingredientes">Ingredientes</string>
+    <string name="tamaño">Tamaño</string>
+    <string name="pequeña">Pequeña</string>
+    <string name="mediana">Mediana</string>
+    <string name="grande">Grande</string>
+    <string name="tipomasa">Tipo de masa</string>
+    <string name="tipoingredientes">Ingredientes elegidos</string>
+    <string name="tipotamaño">Tamaño elegido</string>
+
+
+
+</resources>
